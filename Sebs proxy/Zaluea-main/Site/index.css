@@ -12,6 +12,12 @@
     font-family: 'Roboto';
 }
 
+iframe {
+    margin: auto;
+    text-align: center;
+    padding: 0px;
+}
+
 body {
     background: rgb(22, 22, 22);
     display: flex;
